@@ -8,3 +8,4 @@ int main(){
 	printf("sum = %d\n", s);
 	//return 0;
 }
+
